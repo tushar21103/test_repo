@@ -11,13 +11,13 @@
   width: 640px;
 }
 
-@media (min-width: 1201px) {
+/* @media (min-width: 1201px) {
   .software {
     width: 128px;
     height: 241px;
     background-position: 2px 0;
   }
-}
+} */
 
 @media (min-width: 1101px) and (max-width: 1200px) {
   .software {
